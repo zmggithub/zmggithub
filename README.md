@@ -3,12 +3,12 @@
 <div align="center">
 <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
-</div>  
+</div><br>
 
 
 <div align="center">
 My Github <img src="https://profile-counter.glitch.me/zmggithub/count.svg"> Visitor
-</div>  
+</div><br>
 
 
 ## 🙋 I'm MingGuang Zhu <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
@@ -35,10 +35,9 @@ Here are some ideas to get you started:
 - 😄 You may like [My Blog](https://zmggithub.github.io/)
 - ⚡ Fun fact: **Swimming, Movie**
 - 📫 How to reach me: **zmgab@qq.com**
-- 💬 Ask me about Deep Learning, Java and my projects
-- 💬 Wechat [![web.jpg](https://i.postimg.cc/Sx81K5jF/web.jpg)](https://postimg.cc/hXD1y29p)
-- <img height="300" width="300" src="https://i.postimg.cc/V6MX9QQm/web.jpg">
-
+- 💬 My Wechat（快来扫码加我为好友吧） :
+ <img height="300" width="300" src="https://i.postimg.cc/V6MX9QQm/web.jpg">
+<br><br>
 <!--  技能徽章 -->
 
 
@@ -100,7 +99,9 @@ Here are some ideas to get you started:
 
 
 ## 🧰 常用的工具
-<br>  
+
+<!-- programming tool icon 编程工具图标 -->
+<img src="https://skillicons.dev/icons?i=css,twitter,mongodb,idea,git" />  
 
 ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
@@ -108,8 +109,7 @@ Here are some ideas to get you started:
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-<!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=css,twitter,mongodb,idea,git" /><br><br><br>
+<br><br>
 
 
 
