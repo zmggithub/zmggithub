@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **zmgab@qq.com**
 - 💬 Ask me about Deep Learning, Java and my projects
 - 💬 Wechat [![web.jpg](https://i.postimg.cc/Sx81K5jF/web.jpg)](https://postimg.cc/hXD1y29p)
+- <img height="300" width="300" src="https://i.postimg.cc/V6MX9QQm/web.jpg">
+
 <!--  技能徽章 -->
 
 
