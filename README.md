@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **Swimming, Movie**
 - 📫 How to reach me: **zmgab@qq.com**
 - 💬 Ask me about Deep Learning, Java and my projects
-![二维码](web.jpg)
+- 💬 Wechat [web.jpg](https://postimg.cc/hXD1y29p)
 <!--  技能徽章 -->
 
 
