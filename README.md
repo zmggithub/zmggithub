@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **NLP**
 - 👯 Currently working in **beijing, China**
 - 🤔 I love **Reading, Coding**
-- 😄 You may like [My Blog](https://zmggithub.github.io/)
+- 😄 You may like [My Github Blog](https://zmggithub.github.io/)
 - ⚡ Fun fact: **Swimming, Movie**
-- 📫 How to reach me: **zmgab@qq.com**
+- 📫 How to reach me: **zmgmail@163.com**
 - 💬 My Wechat 快来扫码加好友吧:
  <img height="200" width="200" src="https://i.postimg.cc/V6MX9QQm/web.jpg">
 <br><br>
