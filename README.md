@@ -7,7 +7,7 @@
 
 
 <div align="center">
-My Github <img src="https://profile-counter.glitch.me/zmggithub/count.svg"> Visitor
+My <img src="https://profile-counter.glitch.me/zmggithub/count.svg"> Visitor
 </div><br>
 
 
